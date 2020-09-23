@@ -12,3 +12,7 @@ We will use the following algorithms for the email classification:
 1. Naive Bayes
 2. SVM 
 3. Decision Trees
+
+The repository has 2 pickle files : word_data and email_authors.
+
+The email_preprocess python file serves to process the data from the pickles files. It splits the data into train/test with 0.1 test data.
