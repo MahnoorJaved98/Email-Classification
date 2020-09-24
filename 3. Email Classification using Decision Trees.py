@@ -33,5 +33,3 @@ print("Predicting time:", round(time()-t1, 3), "s\n")
 
 #calculating and printing the accuracy of the algorithm
 print("Accuracy of Decision Trees Algorithm: ", accuracy_score(pred,labels_test))
-
-
