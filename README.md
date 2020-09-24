@@ -8,10 +8,13 @@ This project is of a similar nature. Udacity's course "Intro to Machine Learning
 We have a set of emails, half of which were written by one person and the other half by another person at the same company.
 Our objective is to classify the emails as written by one person or the other based only on the text of the email. 
 
-We will use the following algorithms for the email classification: 
+The following algorithms will be used for the email classification: 
 1. Naive Bayes
 2. SVM 
 3. Decision Trees
+4. Ada Boost
+5. KNN
+6. Random Forest
 
 The repository has 2 pickle files : word_data and email_authors.
 
